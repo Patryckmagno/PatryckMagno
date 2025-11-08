@@ -1,4 +1,4 @@
-## Oiii eu sou o Patryck magno !
+## Oieu sou o Patryck magno !
 <div align="center">
   <a href="https://github.com/Patryckmagno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryckmagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
